@@ -17,10 +17,10 @@ Real-World Dataset: The dataset includes real-world car attributes like brand, m
 Technologies Used:
 
 Python 3.x, 
-Pandas for data manipulation.
-NumPy for numerical operations.
-Seaborn for visualization.
-Scikit-learn for machine learning utilities.
-LightGBM, CatBoost, and XGBoost for regression models.
-Optuna for hyperparameter tuning.
+Pandas for data manipulation, 
+NumPy for numerical operations, 
+Seaborn for visualization, 
+Scikit-learn for machine learning utilities, 
+LightGBM, CatBoost, and XGBoost for regression models, 
+Optuna for hyperparameter tuning, 
 tqdm for progress tracking in loops.
